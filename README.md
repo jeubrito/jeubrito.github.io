@@ -9,11 +9,19 @@ I’m Jessica Brito, a PhD. student at the Federal University of Espirito Santo,
 - B.S., Computer Science | Universidade Estadual do Sudoeste da Bahia (_June 2015_)
 
 
-#### Programming Languages: Python, R
-#### Technical Skills: Numpy, Pandas, Scikit-Learn, spaCy, NLTK
-#### Spoken Languages: Portuguese (Native), English (Fluent)
+
+#### Programming Languages: 
+Python, R
+
+#### Technical Skills: 
+Numpy, Pandas, Scikit-Learn, spaCy, NLTK
+
+#### Spoken Languages: 
+Portuguese (Native), English (Fluent)
+
 
 ## Publications
+
 
 1. BRITO, JESSICA; ALVES, JAMES ; BADUE, CLAUDINE ; OLIVEIRA, ELIAS . An Architecture for Massive Essays Evaluations. In: 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021, Chaves. 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021. p. 1.
 
